@@ -5,10 +5,11 @@ JS essential:
  * Functional programming in JS: https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
 
 
-RESTFULL API with Node JS:
+Library & spec:
 ---
-  * Restfull: https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
-  * GraphQL: https://www.youtube.com/watch?v=7giZGFDGnkc
+ * React & Redux: https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
+ * Restfull: https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
+ * GraphQL: https://www.youtube.com/watch?v=7giZGFDGnkc
   
 
 
