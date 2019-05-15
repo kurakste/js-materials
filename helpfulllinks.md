@@ -16,6 +16,8 @@ Library & spec:
 Base technology:
 --- 
  * http protocol: https://www.youtube.com/watch?v=iYM2zFP3Zn0&t=162s
+ * http1.1 protocol spec: https://www.w3.org/Protocols/rfc2616/rfc2616.html
+ 
 
   
 Other:
