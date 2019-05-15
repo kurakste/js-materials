@@ -4,7 +4,9 @@ SPA Google search optimization:
 
 RESTFULL API with Node JS:
 ---
-  * https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
+  Restfull: https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
+  GraphQL: https://www.youtube.com/watch?v=7giZGFDGnkc
+  
 
 Functional programming in JS:
 ---
