@@ -4,6 +4,8 @@ JS essential:
  * regexp: http://code.mu/books/javascript/regular/rabota-s-regulyarnymi-vyrazeniyami-v-javascript-glava-1.html
  * Functional programming in JS: https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
  * YDKJS: https://github.com/getify/You-Dont-Know-JS
+ * webpack base: https://www.youtube.com/watch?v=TzdEpgONurw
+ 
 
 
 Library & spec:
