@@ -32,4 +32,7 @@ Other:
   * How to build Chrome packaged apps: https://www.youtube.com/watch?v=gkb_x9ZN0Vo
   * Game development: https://habr.com/ru/post/184666/
   
+  Puzzles: 
+  * Написать функуцию reverse которая возвращает развернутый массив Array.prototype.reverse соответственно использовать нельзя. (Решение должно занимать до 30 байт )  
+  
 
