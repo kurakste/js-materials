@@ -15,6 +15,7 @@ Library & spec:
  * GraphQL: https://www.youtube.com/watch?v=7giZGFDGnkc
  * 2d: https://pixijs.io/examples/#/sprite/basic.js
  * keybund: https://craig.is/killing/mice
+ * message brocker: https://www.rabbitmq.com 
 
 
 Base technology:
