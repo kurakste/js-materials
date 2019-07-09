@@ -25,6 +25,7 @@ Base technology:
  * http1.1 protocol spec: https://www.w3.org/Protocols/rfc2616/rfc2616.html
  * GraphQL: https://graphql.org/learn/
  * Restfull: https://restfulapi.net/resource-naming/
+ * VS Code: https://github.com/VSCodeVim/Vim/blob/master/ROADMAP.md
  
 
   
