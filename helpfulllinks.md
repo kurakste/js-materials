@@ -5,6 +5,7 @@ JS essential:
  * Functional programming in JS: https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
  * YDKJS: https://github.com/getify/You-Dont-Know-JS
  * webpack base: https://www.youtube.com/watch?v=TzdEpgONurw
+ * Intro in test: https://www.youtube.com/watch?v=r9HdJ8P6GQI
  
 
 
