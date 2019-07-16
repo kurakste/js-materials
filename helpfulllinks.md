@@ -43,6 +43,11 @@ Other:
   * Написать функуцию reverse которая возвращает развернутый массив Array.prototype.reverse соответственно использовать нельзя. (Решение должно занимать до 30 байт )  
   * https://medium.com/@jehy/вопросы-на-собеседовании-senior-node-js-разработчику-3c955d7be006
   
+  Hardwre:
+  ---
+  Vector algebra for games: https://habr.com/ru/post/131931/
+  
+  
  
  
 
