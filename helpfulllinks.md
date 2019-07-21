@@ -29,7 +29,7 @@ Base technology:
  * GraphQL: https://graphql.org/learn/
  * Restfull: https://restfulapi.net/resource-naming/
  * VS Code: https://github.com/VSCodeVim/Vim/blob/master/ROADMAP.md
- 
+ * Load balancer with nginx: https://youtu.be/2X4ZO5tO7Co
 
   
 Other:
