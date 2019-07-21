@@ -6,6 +6,8 @@ JS essential:
  * YDKJS: https://github.com/getify/You-Dont-Know-JS
  * webpack base: https://www.youtube.com/watch?v=TzdEpgONurw
  * Intro in test: https://www.youtube.com/watch?v=r9HdJ8P6GQI
+ * Clusters: https://www.youtube.com/watch?v=YHPWG23cS4c
+ * Clusters: https://nodejs.org/api/cluster.html
  
 
 
