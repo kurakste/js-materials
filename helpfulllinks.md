@@ -38,6 +38,8 @@ Other:
   * SPA Google search optimization: https://www.youtube.com/watch?v=LXF8bM4g-J4&list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9&index=2
   * How to build Chrome packaged apps: https://www.youtube.com/watch?v=gkb_x9ZN0Vo
   * Game development: https://habr.com/ru/post/184666/
+  * React Isomorphic: https://www.youtube.com/watch?v=xarGaBBDROw
+  
   
   
   Puzzles: 
