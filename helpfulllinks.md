@@ -8,8 +8,7 @@ JS essential:
  * Intro in test: https://www.youtube.com/watch?v=r9HdJ8P6GQI
  * Clusters: https://www.youtube.com/watch?v=YHPWG23cS4c
  * Clusters: https://nodejs.org/api/cluster.html
- 
-
+ * Generators: https://www.youtube.com/watch?v=o3A9EvMspig
 
 Library & spec:
 ---
