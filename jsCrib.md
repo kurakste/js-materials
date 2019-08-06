@@ -18,3 +18,11 @@ Profiling
   Go to the "Profiler" tab and begin recording a new profile
   
 2) node --prof-process isolate-0xnnnnnnnnnnnn-v8.log > processed.txt
+
+nodejs on mac:
+---
+sudo chown -R `whoami`:admin /usr/local/include/node
+sudo chown -R `whoami`:admin /usr/local/bin
+sudo chown -R `whoami`:admin /usr/local/share
+
+
