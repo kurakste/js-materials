@@ -1,4 +1,4 @@
-JS essential:
+JS essential: 
 ---
  * ES6 base: https://www.youtube.com/watch?v=4YfsAz-sNAo&list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q 
  * regexp: http://code.mu/books/javascript/regular/rabota-s-regulyarnymi-vyrazeniyami-v-javascript-glava-1.html
