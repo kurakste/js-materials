@@ -9,6 +9,8 @@ JS essential:
  * Clusters: https://www.youtube.com/watch?v=YHPWG23cS4c
  * Clusters: https://nodejs.org/api/cluster.html
  * Generators: https://www.youtube.com/watch?v=o3A9EvMspig
+ * Architectural patterns: https://www.youtube.com/watch?v=YJVj4XNASDk
+ 
 
 Library & spec:
 ---
