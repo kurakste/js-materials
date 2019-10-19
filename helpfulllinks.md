@@ -24,6 +24,7 @@ Library & spec:
  * 2d: http://www.lostgarden.com/2005/03/game-post-mortem-hard-vacuum.html
  * keybund: https://craig.is/killing/mice
  * message brocker: https://www.rabbitmq.com 
+ * template: https://www.npmjs.com/package/mustache
 
 
 Base technology:
