@@ -1,5 +1,7 @@
 JS essential: 
 ---
+ * Приоритеты операторов. Знать наизусть. https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
+ 
  * ES6 base: https://www.youtube.com/watch?v=4YfsAz-sNAo&list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q 
  * regexp: http://code.mu/books/javascript/regular/rabota-s-regulyarnymi-vyrazeniyami-v-javascript-glava-1.html
  * Functional programming in JS: https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
