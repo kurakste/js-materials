@@ -16,6 +16,7 @@ JS essential:
 
 Library & spec:
 ---
+* Error handeling: https://github.com/bjyoungblood/es6-error
  * NestJS: 
     https://www.youtube.com/watch?v=ulfU5vY6I78
     https://www.youtube.com/watch?v=F_oOtaxb0L8
