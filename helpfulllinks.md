@@ -48,6 +48,9 @@ Other:
   * Game development: https://habr.com/ru/post/184666/
   * React Isomorphic: https://www.youtube.com/watch?v=xarGaBBDROw
   * React Isomorphic: https://www.youtube.com/watch?v=niRATPKKF40
+  * Error handling: https://github.com/HowProgrammingWorks/Errors
+  * Chaining with classes, ptototypes and functors: https://github.com/HowProgrammingWorks/Chaining
+  
   
   
   
